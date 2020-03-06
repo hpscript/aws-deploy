@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 777 /home/release/storage
+chmod -R 777 /home/release/index.html
